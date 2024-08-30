@@ -20,7 +20,7 @@ def multiply_matrices(A, B):
     # Retorna a matriz result, que contém o produto das matrizes A e B.
 
 # Gerar duas matrizes de tamanho grande para o teste
-N = 1300  # Define o tamanho N das matrizes quadradas (200x200).
+N = 300  # Define o tamanho N das matrizes quadradas (200x200).
 
 A = [[i + j for j in range(N)] for i in range(N)]
 # Gera a matriz A de tamanho N x N, onde cada elemento A[i][j] é a soma dos índices i e j.

@@ -23,7 +23,7 @@ void multiply_matrices(const std::vector<std::vector<int>>& A, const std::vector
 }
 
 int main() {
-    size_t N = 1300;
+    size_t N = 900;
     // Define o tamanho N das matrizes quadradas (200x200).
     std::vector<std::vector<int>> A(N, std::vector<int>(N));
     // Declara e inicializa a matriz A como uma matriz NxN preenchida com zeros.
