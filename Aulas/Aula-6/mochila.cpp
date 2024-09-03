@@ -1,37 +1,37 @@
 #include <iostream>
 #include <fstream>
-#include <vector>
 
-struct Item {
-    int weight;
-    int value;
-};
-
-int backpack(int weight, const std::vector<Item>& items, int n) {
-    if (n == 0 || weight == 0) {
+int backpack(int peso, int peso_atual[], int val_atual[], int n)
+{
+    if (n == 0 || peso == 0)
+    {
         return 0;
     }
-    if (items[n - 1].weight > weight) {
-        return backpack(weight, items, n - 1);
-    } else {
-        return std::max(items[n - 1].value + backpack(weight - items[n - 1].weight, items, n - 1),
-                        backpack(weight, items, n - 1));
+    if (peso_atual[n - 1] > peso)
+    {
+        return backpack(peso, peso_atual, val_atual, n - 1);
+    }
+    else
+    {
+        return std::max(val_atual[n - 1] + backpack(peso - peso_atual[n - 1], peso_atual, val_atual, n - 1), backpack(peso, peso_atual, val_atual, n - 1));
     }
 }
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[])
+{
     std::ifstream file("./entrada.txt");
-    int weight, n;
-    file >> weight >> n;
+    int peso, n;
+    file >> peso >> n;
+    
+    printf("Peso: %d\n", peso);
+    printf("Numero de itens: %d\n", n);
 
-    printf("Weight: %d\n", weight);
-    printf("Number of items: %d\n", n);
-
-    std::vector<Item> items(n);
-    for (int i = 0; i < n; i++) {
-        file >> items[i].weight >> items[i].value;
+    int peso_atual[n], val_atual[n];
+    for (int i = 0; i < n; i++)
+    {
+        file >> peso_atual[i] >> val_atual[i];
     }
-    int result = backpack(weight, items, n);
+    int result = backpack(peso, peso_atual, val_atual, n);
     std::cout << "Maximum value: " << result << std::endl;
     return 0;
 }
