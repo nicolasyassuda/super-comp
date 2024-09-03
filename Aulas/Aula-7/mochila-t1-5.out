@@ -1,0 +1,12 @@
+Weight: 380
+Number of items: 50
+Heurística gulosa - Valor obtido: 262, Tempo de execução: 1.6573e-05 segundos
+Weight: 239
+Number of items: 75
+Heurística gulosa - Valor obtido: 283, Tempo de execução: 1.2056e-05 segundos
+Weight: 777
+Number of items: 66
+Heurística gulosa - Valor obtido: 3320, Tempo de execução: 1.1274e-05 segundos
+Weight: 600
+Number of items: 30
+Heurística gulosa - Valor obtido: 519, Tempo de execução: 1.0631e-05 segundos

@@ -20,9 +20,9 @@ int backpack(int weight, const std::vector<Item>& items, int n) {
 }
 
 int main(int argc, char* argv[]) {
-    std::ifstream file("./entrada.txt");
+    std::ifstream file("./entrada4.txt");
     int weight, n;
-    file >> weight >> n;
+    file >> n >> weight;
 
     printf("Weight: %d\n", weight);
     printf("Number of items: %d\n", n);
