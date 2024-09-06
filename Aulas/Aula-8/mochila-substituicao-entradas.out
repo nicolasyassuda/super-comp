@@ -1,0 +1,39 @@
+Execução 1 para arquivo ./Entrada_1.txt: Valor obtido: 470, Tempo de execução: 2.4468e-05 segundos
+Execução 2 para arquivo ./Entrada_1.txt: Valor obtido: 371, Tempo de execução: 1.7205e-05 segundos
+Execução 3 para arquivo ./Entrada_1.txt: Valor obtido: 398, Tempo de execução: 1.6051e-05 segundos
+Execução 4 para arquivo ./Entrada_1.txt: Valor obtido: 342, Tempo de execução: 1.6914e-05 segundos
+Execução 5 para arquivo ./Entrada_1.txt: Valor obtido: 291, Tempo de execução: 1.6603e-05 segundos
+Execução 6 para arquivo ./Entrada_1.txt: Valor obtido: 234, Tempo de execução: 1.4555e-05 segundos
+Execução 7 para arquivo ./Entrada_1.txt: Valor obtido: 275, Tempo de execução: 1.3575e-05 segundos
+Execução 8 para arquivo ./Entrada_1.txt: Valor obtido: 295, Tempo de execução: 1.4028e-05 segundos
+Execução 9 para arquivo ./Entrada_1.txt: Valor obtido: 299, Tempo de execução: 1.6192e-05 segundos
+Execução 10 para arquivo ./Entrada_1.txt: Valor obtido: 249, Tempo de execução: 1.2888e-05 segundos
+
+Melhor Execução (1): Valor obtido: 470, Tempo de execução: 2.4468e-05 segundos
+
+Execução 1 para arquivo ./Entrada_2.txt: Valor obtido: 371, Tempo de execução: 2.9395e-05 segundos
+Execução 2 para arquivo ./Entrada_2.txt: Valor obtido: 371, Tempo de execução: 3.1065e-05 segundos
+Execução 3 para arquivo ./Entrada_2.txt: Valor obtido: 347, Tempo de execução: 1.8886e-05 segundos
+Execução 4 para arquivo ./Entrada_2.txt: Valor obtido: 309, Tempo de execução: 2.0699e-05 segundos
+Execução 5 para arquivo ./Entrada_2.txt: Valor obtido: 382, Tempo de execução: 2.341e-05 segundos
+Execução 6 para arquivo ./Entrada_2.txt: Valor obtido: 376, Tempo de execução: 1.8446e-05 segundos
+Execução 7 para arquivo ./Entrada_2.txt: Valor obtido: 246, Tempo de execução: 2.6334e-05 segundos
+Execução 8 para arquivo ./Entrada_2.txt: Valor obtido: 355, Tempo de execução: 1.5661e-05 segundos
+Execução 9 para arquivo ./Entrada_2.txt: Valor obtido: 176, Tempo de execução: 2.0627e-05 segundos
+Execução 10 para arquivo ./Entrada_2.txt: Valor obtido: 325, Tempo de execução: 1.7234e-05 segundos
+
+Melhor Execução (5): Valor obtido: 382, Tempo de execução: 2.341e-05 segundos
+
+Execução 1 para arquivo ./Entrada_3.txt: Valor obtido: 533, Tempo de execução: 2.8363e-05 segundos
+Execução 2 para arquivo ./Entrada_3.txt: Valor obtido: 453, Tempo de execução: 1.7099e-05 segundos
+Execução 3 para arquivo ./Entrada_3.txt: Valor obtido: 529, Tempo de execução: 1.3343e-05 segundos
+Execução 4 para arquivo ./Entrada_3.txt: Valor obtido: 410, Tempo de execução: 1.1731e-05 segundos
+Execução 5 para arquivo ./Entrada_3.txt: Valor obtido: 496, Tempo de execução: 1.1923e-05 segundos
+Execução 6 para arquivo ./Entrada_3.txt: Valor obtido: 495, Tempo de execução: 1.1652e-05 segundos
+Execução 7 para arquivo ./Entrada_3.txt: Valor obtido: 580, Tempo de execução: 1.1872e-05 segundos
+Execução 8 para arquivo ./Entrada_3.txt: Valor obtido: 406, Tempo de execução: 1.1212e-05 segundos
+Execução 9 para arquivo ./Entrada_3.txt: Valor obtido: 462, Tempo de execução: 1.1606e-05 segundos
+Execução 10 para arquivo ./Entrada_3.txt: Valor obtido: 450, Tempo de execução: 1.1704e-05 segundos
+
+Melhor Execução (7): Valor obtido: 580, Tempo de execução: 1.1872e-05 segundos
+

@@ -1,0 +1,39 @@
+Capacidade da mochila: 380
+Número de itens: 50
+Execução 1 - Valor obtido: 331, Tempo de execução: 0.000224121 segundos
+Execução 2 - Valor obtido: 253, Tempo de execução: 0.000235458 segundos
+Execução 3 - Valor obtido: 357, Tempo de execução: 0.000220088 segundos
+Execução 4 - Valor obtido: 254, Tempo de execução: 0.000202982 segundos
+Execução 5 - Valor obtido: 373, Tempo de execução: 0.000311832 segundos
+Execução 6 - Valor obtido: 319, Tempo de execução: 0.000360236 segundos
+Execução 7 - Valor obtido: 317, Tempo de execução: 0.000330749 segundos
+Execução 8 - Valor obtido: 373, Tempo de execução: 0.000366963 segundos
+Execução 9 - Valor obtido: 300, Tempo de execução: 0.000274543 segundos
+Execução 10 - Valor obtido: -1, Tempo de execução: 0.000141572 segundos
+Melhor valor obtido após 10 execuções: 373, Tempo médio de execução: 0.000266854 segundos
+Capacidade da mochila: 239
+Número de itens: 75
+Execução 1 - Valor obtido: 312, Tempo de execução: 0.000454385 segundos
+Execução 2 - Valor obtido: -1, Tempo de execução: 0.000201497 segundos
+Execução 3 - Valor obtido: -1, Tempo de execução: 0.000211323 segundos
+Execução 4 - Valor obtido: 299, Tempo de execução: 0.000469196 segundos
+Execução 5 - Valor obtido: -1, Tempo de execução: 0.000202356 segundos
+Execução 6 - Valor obtido: 328, Tempo de execução: 0.000484601 segundos
+Execução 7 - Valor obtido: 154, Tempo de execução: 0.000318735 segundos
+Execução 8 - Valor obtido: 243, Tempo de execução: 0.000396815 segundos
+Execução 9 - Valor obtido: -1, Tempo de execução: 0.000207241 segundos
+Execução 10 - Valor obtido: 154, Tempo de execução: 0.000198574 segundos
+Melhor valor obtido após 10 execuções: 328, Tempo médio de execução: 0.000314472 segundos
+Capacidade da mochila: 600
+Número de itens: 30
+Execução 1 - Valor obtido: 481, Tempo de execução: 0.000125197 segundos
+Execução 2 - Valor obtido: 527, Tempo de execução: 0.000160311 segundos
+Execução 3 - Valor obtido: 494, Tempo de execução: 0.000177059 segundos
+Execução 4 - Valor obtido: 452, Tempo de execução: 0.000202315 segundos
+Execução 5 - Valor obtido: 467, Tempo de execução: 0.000218545 segundos
+Execução 6 - Valor obtido: -1, Tempo de execução: 6.6436e-05 segundos
+Execução 7 - Valor obtido: 532, Tempo de execução: 0.000145299 segundos
+Execução 8 - Valor obtido: -1, Tempo de execução: 7.2293e-05 segundos
+Execução 9 - Valor obtido: -1, Tempo de execução: 7.3859e-05 segundos
+Execução 10 - Valor obtido: 489, Tempo de execução: 0.00016397 segundos
+Melhor valor obtido após 10 execuções: 532, Tempo médio de execução: 0.000140528 segundos

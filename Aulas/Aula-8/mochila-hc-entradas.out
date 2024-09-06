@@ -1,0 +1,42 @@
+Resultados para ./Entrada_1.txt:
+Teste 1: Valor obtido = 245, Tempo = 1.4309e-05 segundos
+Teste 2: Valor obtido = 318, Tempo = 1.1292e-05 segundos
+Teste 3: Valor obtido = 417, Tempo = 1.07e-05 segundos
+Teste 4: Valor obtido = 291, Tempo = 1.0583e-05 segundos
+Teste 5: Valor obtido = 286, Tempo = 1.0547e-05 segundos
+Teste 6: Valor obtido = 375, Tempo = 1.0544e-05 segundos
+Teste 7: Valor obtido = 282, Tempo = 1.0607e-05 segundos
+Teste 8: Valor obtido = 273, Tempo = 2.0272e-05 segundos
+Teste 9: Valor obtido = 199, Tempo = 1.2182e-05 segundos
+Teste 10: Valor obtido = 350, Tempo = 1.0651e-05 segundos
+
+Melhor resultado: Valor = 417, Tempo = 1.07e-05 segundos
+
+Resultados para ./Entrada_2.txt:
+Teste 1: Valor obtido = 336, Tempo = 1.1935e-05 segundos
+Teste 2: Valor obtido = 239, Tempo = 1.1411e-05 segundos
+Teste 3: Valor obtido = 301, Tempo = 1.1301e-05 segundos
+Teste 4: Valor obtido = 249, Tempo = 1.1407e-05 segundos
+Teste 5: Valor obtido = 208, Tempo = 1.133e-05 segundos
+Teste 6: Valor obtido = 216, Tempo = 1.1311e-05 segundos
+Teste 7: Valor obtido = 448, Tempo = 1.1319e-05 segundos
+Teste 8: Valor obtido = 174, Tempo = 1.124e-05 segundos
+Teste 9: Valor obtido = 279, Tempo = 1.1109e-05 segundos
+Teste 10: Valor obtido = 284, Tempo = 1.1289e-05 segundos
+
+Melhor resultado: Valor = 448, Tempo = 1.1319e-05 segundos
+
+Resultados para ./Entrada_3.txt:
+Teste 1: Valor obtido = 463, Tempo = 1.0702e-05 segundos
+Teste 2: Valor obtido = 485, Tempo = 1.0152e-05 segundos
+Teste 3: Valor obtido = 379, Tempo = 1.0194e-05 segundos
+Teste 4: Valor obtido = 414, Tempo = 1.0039e-05 segundos
+Teste 5: Valor obtido = 546, Tempo = 1.0148e-05 segundos
+Teste 6: Valor obtido = 401, Tempo = 1.4788e-05 segundos
+Teste 7: Valor obtido = 512, Tempo = 1.0188e-05 segundos
+Teste 8: Valor obtido = 458, Tempo = 1.0258e-05 segundos
+Teste 9: Valor obtido = 506, Tempo = 1.0246e-05 segundos
+Teste 10: Valor obtido = 453, Tempo = 1.0257e-05 segundos
+
+Melhor resultado: Valor = 546, Tempo = 1.0148e-05 segundos
+
