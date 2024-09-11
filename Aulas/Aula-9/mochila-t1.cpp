@@ -45,7 +45,6 @@ void mochilaMaisCaroPrimeiro(std::vector<Item>& itens, int capacidade_maxima) {
         if (peso_atual + item.peso <= capacidade_maxima) {
             peso_atual += item.peso;
             valor_total += item.valor;
-            std::cout << "Adicionando item com peso " << item.peso << " e valor " << item.valor << "\n";
         }
     }
 
@@ -62,7 +61,6 @@ void mochilaMaisLevePrimeiro(std::vector<Item>& itens, int capacidade_maxima) {
         if (peso_atual + item.peso <= capacidade_maxima) {
             peso_atual += item.peso;
             valor_total += item.valor;
-            std::cout << "Adicionando item com peso " << item.peso << " e valor " << item.valor << "\n";
         }
     }
 
