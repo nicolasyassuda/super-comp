@@ -1,0 +1,2 @@
+for 100000 steps pi = 3.14152
+Elapsed time: 0.002247666s
