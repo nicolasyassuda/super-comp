@@ -1,0 +1,7 @@
+Tempo de execu├º├úo parallel for com critical: 0.00200009 secs
+Tempo de execu├º├úo parallel for com critical: 0.00200009 secs
+Tempo de execu├º├úo parallel for com critical: 0.00199986 secs
+
+Tempo de execu├º├úo parallel for com critical e pre-aloca├º├úo: 0.00039994 secs
+Tempo de execu├º├úo parallel for com critical e pre-aloca├º├úo: 0.00034232 secs
+Tempo de execu├º├úo parallel for com critical e pre-aloca├º├úo: 0.00039994 secs
