@@ -1,0 +1,6 @@
+Processo 0 enviou a mensagem 123 para o processo 1
+Processo 1 recebeu a mensagem 123 do processo 0
+Processo 1 enviou a mensagem 123 para o processo 2
+Processo 2 recebeu a mensagem 123 do processo 1
+Processo 2 enviou a mensagem 123 para o processo 3
+Processo 3 recebeu a mensagem 123 do processo 2

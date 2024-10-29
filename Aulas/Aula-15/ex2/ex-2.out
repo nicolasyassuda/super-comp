@@ -1,0 +1,8 @@
+Processo 0 enviou mensagem 100 para o processo 1
+Processo 1 recebeu mensagem 100 do processo 0
+Processo 1 enviou mensagem 101 para o processo 2
+Processo 2 recebeu mensagem 101 do processo 1
+Processo 2 enviou mensagem 102 para o processo 3
+Processo 3 recebeu mensagem 102 do processo 2
+Processo 3 enviou mensagem 103 para o processo 0
+Processo 0 recebeu mensagem 103 do processo 3

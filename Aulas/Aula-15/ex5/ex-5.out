@@ -1,0 +1,7 @@
+Processo 0 iniciou com valor 1 e enviou soma parcial 1 para o processo 1
+Processo 1 recebeu soma parcial 1, somou seu valor 2, totalizando 3
+Processo 1 enviou soma parcial 3 para o processo 2
+Processo 2 recebeu soma parcial 3, somou seu valor 3, totalizando 6
+Processo 2 enviou soma parcial 6 para o processo 3
+Processo 3 recebeu soma parcial 6, somou seu valor 4, totalizando 10
+Processo 3 é o último e exibe a soma total: 10
