@@ -1,0 +1,2 @@
+Valor alvo 50 encontrado nas posições: Nenhuma ocorrência encontrada.
+Tempo de execução: 4.5836e-05 segundos

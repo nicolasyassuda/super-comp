@@ -1,0 +1,1 @@
+Tempo de execução (Sem Paralelização OpenMP): 0.110465 segundos

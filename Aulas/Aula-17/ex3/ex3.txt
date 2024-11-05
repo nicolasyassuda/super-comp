@@ -1,0 +1,3 @@
+Soma Total: 4897.55
+Média do Vetor: 48.9755
+Tempo de execução: 4.1641e-05 segundos

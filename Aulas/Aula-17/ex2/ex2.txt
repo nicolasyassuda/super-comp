@@ -1,0 +1,1 @@
+Tempo de execução para calcular o quadrado da matriz: 4.5504e-05 segundos

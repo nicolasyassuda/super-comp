@@ -1,0 +1,2 @@
+Valor alvo 50 encontrado nas posições: 2286 2768 2791 3328 3866 4187 5021 6059 6128 6548 7804 7928 9475 
+Tempo de execução: 8.5839e-05 segundos
