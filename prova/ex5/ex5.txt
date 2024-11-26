@@ -1,0 +1,43 @@
+Parte A: Descreva com suas palavras o que é paralelismo, diferenciando-o do processamento sequencial. Relacione sua reposta com o conceito de escalabilidade.
+
+Resposta: Para poder explicar paralelismo primeiro precisamos entender oque são threads, threads são basicamente (bem simplificado) execuções, então se meu processador possui 4 threads então ele é capaz de executar 4 execuções ao mesmo tempo paralelismo é quando utilizamos dessas multiplas threads para que o computador possa processar algum dado de forma paralela.
+
+Ex: (1,2,3,4,5,6,7,8) Temos esse vetor de 8 numeros eu preciso encontrar a soma de todos os numeros desse vetor.
+
+Então a execução dessa tarefa de forma paralela seria algo mais o menos assim:
+
+
+    thread principal recebe o vetor e divide para as outras threads e processa parte do vetor (1,2)
+    thread segunda (3,4)
+    thread terceira (5,6)
+    thread quarta (7,8)
+    somaTotal junta todos os resultados das threads
+    --------------------------------------> Tempo
+Diferente de uma execução comum onde o esquema seria o seguinte:
+
+    thread principal recebe o vetor e roda um looping processando
+
+    looping
+        1+2
+    
+            looping 2
+                3+4
+    
+                      looping 3
+                          5+6
+    
+                                looping 4
+                                    7+8
+    
+    ---------------------------------------------->Tempo
+    e ai sim finaliza execução
+
+podemos ver que no primeiro caso todas são executadas em conjunto como o proprio nome diz paralelas uma a outra já na segunda situação um precisa esperar o outro terminar para começar a ser executado.
+
+
+Isso é de extrema importância qual precisamos pensar em um contexto de escalibilidade estrutural tanto do código quanto da propria infraestrutura quando como diz o ditado "tempo é dinheiro", e em muitos casos não podemos esperar que algo termine para executar o proximo (demoradamente), precisamos dar vazão ao maximo de resultados possiveis para que assim possamos entregar mais sem qualquer tipo de gargalo.
+
+
+Parte B: O conceito de balanceamento de carga em computação paralela refere-se à distribuição equitativa do trabalho entre todos os processadores ou núcleos disponíveisem um sistema de computação paralelo. Por que é importante? Quais técnicas podem ser usadas para alcançar um balanceamento efetivo?
+
+O balanceamento de carga em computação de alto desempenho é um papel de extrema importância tendo em vista que uma central de SuperComputação recebe milhares de requisições para executação por dia, então precisa ter um sistema que controla a distribuição dessas requisições para que processos não fiquem em espera desnecessariamente e novamente como falando no exercicio anterior dando vazão ao maior numero de requisições possiveis. Este controle normalmente é feito via software configurado por algum administrador do centro de processamento, ao qual o mesmo pode fazer modificações, as principais técnicas utilizadas são o pedido de requisição detalhada como, quanta memoria vai ser usada, quantos nucleos de processamento a pessoa vai precisar, quanto tempo a execução dela vai demorar e alguns outros fatores, com base nesse pedido da requisição detalhada o sistema faz o controle pensando em todos esses fatores, por exemplo se a pessoa pediu 2 nucleos de 2 Gb de RAM e o processo será rapido faz mais sentido eu colocar esse processo para rodar do que esperar algum outro processo terminar para que assim eu possa fazer uma alocação de um processo monstruoso que usará 16 nucleos e 16Gb de RAM que demorará horas.

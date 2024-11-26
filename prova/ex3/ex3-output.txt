@@ -1,0 +1,3 @@
+Media: 3.75
+Valor Maximo: 6
+Produto (entre os valores do vetor): 1386
